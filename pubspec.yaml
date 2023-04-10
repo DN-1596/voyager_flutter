@@ -1,0 +1,21 @@
+name: voyager_flutter
+description: A new Flutter project.
+version: 0.0.1
+homepage: https://github.com/DN-1596/voyager_flutter
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.2.5
+  dart_jts: 0.2.2+3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
