@@ -1,5 +1,5 @@
 name: voyager_flutter
-description: A new Flutter project.
+description: Flutter library for algorithms and UI components related to maps..
 version: 0.0.1
 homepage: https://github.com/DN-1596/voyager_flutter
 
@@ -11,7 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
   google_maps_flutter: ^2.2.5
-  dart_jts: 0.2.2+3
+  dart_jts: ^0.2.2+3
+  google_maps_flutter_platform_interface: ^2.2.6
+  collection: ^1.17.0
 
 dev_dependencies:
   flutter_test:
